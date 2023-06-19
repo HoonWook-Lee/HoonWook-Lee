@@ -1,6 +1,7 @@
 # 🤗 Welcome to My GitHub
 
 > 현재 메인은 Python-Djnago를 사용하고 있으며 계속 발전하고 있는 개발자입니다.
+> 정보처리기사 시험 준비로 인한 프로젝트 Delay ...
 
 ## 📚 STACKS
 #### 사용 언어 Top2
